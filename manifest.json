@@ -1,9 +1,9 @@
 {
   "format": "zhixing-catalog",
   "schemaVersion": 1,
-  "version": 3,
+  "version": 4,
   "minAppVersionCode": 3,
-  "sha256": "93f40bbc0d6836a3215f9d85053cfda36039be5650166b80de88730575284f3d",
-  "bytes": 293750,
-  "file": "catalog-v3.json"
+  "sha256": "c064e76ba519beeca5396dfad5278b5e0f8b9b2e21f01c9a8a4d4b3bbebd5797",
+  "bytes": 583794,
+  "file": "catalog-v4.json"
 }
